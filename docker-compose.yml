@@ -73,14 +73,14 @@ services:
     restart: always
     command: ["./wait-for-it.sh", "kafka:9092", "--", "node", "app.js"]
 
-#  notification-service:
-#    build: ./notification-service
-#    depends_on:
-#      - kafka
-#    networks:
-#      - kafka_network
-#    restart: always
-#    command: ["./wait-for-it.sh", "kafka:9092", "--", "python", "app.py"]
+  notification-service:
+    build: ./notification-service
+    depends_on:
+      - kafka
+    networks:
+      - kafka_network
+    restart: always
+    command: ["./wait-for-it.sh", "kafka:9092", "--", "python", "app.py"]
 
 networks:
   kafka_network:
