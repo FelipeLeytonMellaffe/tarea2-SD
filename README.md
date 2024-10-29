@@ -26,5 +26,6 @@ docker-compose up --build
 
 #### Ejecutar cliente (generar pedidos):
 ```bash
+cd order-client/
 python client.py
 ```
