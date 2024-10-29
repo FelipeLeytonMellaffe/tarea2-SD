@@ -1,0 +1,602 @@
+[
+    {
+        "product_name": "Smartwatch",
+        "price": 1500.0,
+        "payment_gateway": "MercadoPago",
+        "card_brand": "Discover",
+        "bank": "Banco Estado",
+        "shipping_address": {
+            "region": "Araucan\u00eda",
+            "address": "Calle Falsa 7182"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Tablet",
+        "price": 250.0,
+        "payment_gateway": "Alipay",
+        "card_brand": "Diners Club",
+        "bank": "Scotiabank",
+        "shipping_address": {
+            "region": "Antofagasta",
+            "address": "Calle Falsa 2834"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Monitor",
+        "price": 1200.0,
+        "payment_gateway": "Stripe",
+        "card_brand": "Diners Club",
+        "bank": "Banco Chile",
+        "shipping_address": {
+            "region": "Antofagasta",
+            "address": "Calle Falsa 4434"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Tarjeta gr\u00e1fica",
+        "price": 500.0,
+        "payment_gateway": "EtPay",
+        "card_brand": "JCB",
+        "bank": "Banco Santander",
+        "shipping_address": {
+            "region": "Los Lagos",
+            "address": "Calle Falsa 1929"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Altavoces",
+        "price": 1200.0,
+        "payment_gateway": "Webpay",
+        "card_brand": "VISA",
+        "bank": "Banco BICE",
+        "shipping_address": {
+            "region": "Magallanes",
+            "address": "Calle Falsa 9588"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "SSD",
+        "price": 40.0,
+        "payment_gateway": "Webpay",
+        "card_brand": "UnionPay",
+        "bank": "Banco Estado",
+        "shipping_address": {
+            "region": "Antofagasta",
+            "address": "Calle Falsa 3222"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Smartphone",
+        "price": 350.0,
+        "payment_gateway": "Square",
+        "card_brand": "Diners Club",
+        "bank": "Banco BICE",
+        "shipping_address": {
+            "region": "Ays\u00e9n",
+            "address": "Calle Falsa 8252"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Disco duro externo",
+        "price": 100.0,
+        "payment_gateway": "Webpay",
+        "card_brand": "AMEX",
+        "bank": "Banco Chile",
+        "shipping_address": {
+            "region": "Maule",
+            "address": "Calle Falsa 9183"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Placa base",
+        "price": 500.0,
+        "payment_gateway": "Alipay",
+        "card_brand": "Diners Club",
+        "bank": "Banco Nacional",
+        "shipping_address": {
+            "region": "Ays\u00e9n",
+            "address": "Calle Falsa 3786"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Drone",
+        "price": 1000.0,
+        "payment_gateway": "Adyen",
+        "card_brand": "Discover",
+        "bank": "Banco Falabella",
+        "shipping_address": {
+            "region": "Araucan\u00eda",
+            "address": "Calle Falsa 7751"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Monitor",
+        "price": 450.0,
+        "payment_gateway": "Kiphu",
+        "card_brand": "Mastercard",
+        "bank": "Banco Falabella",
+        "shipping_address": {
+            "region": "Maule",
+            "address": "Calle Falsa 5032"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Tarjeta gr\u00e1fica",
+        "price": 250.0,
+        "payment_gateway": "Redsys",
+        "card_brand": "VISA",
+        "bank": "Scotiabank",
+        "shipping_address": {
+            "region": "Ays\u00e9n",
+            "address": "Calle Falsa 3481"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Smartwatch",
+        "price": 600.0,
+        "payment_gateway": "Stripe",
+        "card_brand": "UnionPay",
+        "bank": "Banco de Cr\u00e9dito e Inversiones",
+        "shipping_address": {
+            "region": "Los R\u00edos",
+            "address": "Calle Falsa 8775"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Videojuego",
+        "price": 400.0,
+        "payment_gateway": "Adyen",
+        "card_brand": "AMEX",
+        "bank": "Banco Chile",
+        "shipping_address": {
+            "region": "Ays\u00e9n",
+            "address": "Calle Falsa 870"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Monitor",
+        "price": 600.0,
+        "payment_gateway": "Stripe",
+        "card_brand": "JCB",
+        "bank": "Banco BICE",
+        "shipping_address": {
+            "region": "Valpara\u00edso",
+            "address": "Calle Falsa 9766"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Disco duro externo",
+        "price": 500.0,
+        "payment_gateway": "Stripe",
+        "card_brand": "UnionPay",
+        "bank": "Banco BICE",
+        "shipping_address": {
+            "region": "Metropolitana",
+            "address": "Calle Falsa 4293"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Monitor",
+        "price": 90.0,
+        "payment_gateway": "Webpay",
+        "card_brand": "UnionPay",
+        "bank": "Banco Santander",
+        "shipping_address": {
+            "region": "Magallanes",
+            "address": "Calle Falsa 811"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Proyector",
+        "price": 350.0,
+        "payment_gateway": "Kiphu",
+        "card_brand": "Diners Club",
+        "bank": "Banco Chile",
+        "shipping_address": {
+            "region": "O'Higgins",
+            "address": "Calle Falsa 7616"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Teclado",
+        "price": 75.0,
+        "payment_gateway": "MercadoPago",
+        "card_brand": "VISA",
+        "bank": "Banco BICE",
+        "shipping_address": {
+            "region": "Los R\u00edos",
+            "address": "Calle Falsa 4344"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Videojuego",
+        "price": 90.0,
+        "payment_gateway": "Alipay",
+        "card_brand": "AMEX",
+        "bank": "Banco Nacional",
+        "shipping_address": {
+            "region": "Valpara\u00edso",
+            "address": "Calle Falsa 7230"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Mouse",
+        "price": 600.0,
+        "payment_gateway": "MercadoPago",
+        "card_brand": "Mastercard",
+        "bank": "Banco Falabella",
+        "shipping_address": {
+            "region": "Metropolitana",
+            "address": "Calle Falsa 8453"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Monitor",
+        "price": 50.0,
+        "payment_gateway": "Authorize.Net",
+        "card_brand": "VISA",
+        "bank": "Scotiabank",
+        "shipping_address": {
+            "region": "Maule",
+            "address": "Calle Falsa 9523"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "SSD",
+        "price": 500.0,
+        "payment_gateway": "EtPay",
+        "card_brand": "JCB",
+        "bank": "Banco Santander",
+        "shipping_address": {
+            "region": "Maule",
+            "address": "Calle Falsa 5651"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "C\u00e1mara",
+        "price": 40.0,
+        "payment_gateway": "PayPal",
+        "card_brand": "Discover",
+        "bank": "Banco Santander",
+        "shipping_address": {
+            "region": "Magallanes",
+            "address": "Calle Falsa 5982"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Monitor",
+        "price": 400.0,
+        "payment_gateway": "Redsys",
+        "card_brand": "VISA",
+        "bank": "Banco de Cr\u00e9dito e Inversiones",
+        "shipping_address": {
+            "region": "Maule",
+            "address": "Calle Falsa 3923"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Teclado",
+        "price": 350.0,
+        "payment_gateway": "PayPal",
+        "card_brand": "VISA",
+        "bank": "Banco Internacional",
+        "shipping_address": {
+            "region": "Antofagasta",
+            "address": "Calle Falsa 43"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "C\u00e1mara",
+        "price": 700.0,
+        "payment_gateway": "Square",
+        "card_brand": "Diners Club",
+        "bank": "Banco Santander",
+        "shipping_address": {
+            "region": "Los R\u00edos",
+            "address": "Calle Falsa 3554"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Mouse",
+        "price": 1000.0,
+        "payment_gateway": "Adyen",
+        "card_brand": "Maestro",
+        "bank": "Banco Nacional",
+        "shipping_address": {
+            "region": "Antofagasta",
+            "address": "Calle Falsa 3188"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Tablet",
+        "price": 1500.0,
+        "payment_gateway": "PagSeguro",
+        "card_brand": "UnionPay",
+        "bank": "Banco Estado",
+        "shipping_address": {
+            "region": "Maule",
+            "address": "Calle Falsa 5720"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Mouse",
+        "price": 800.0,
+        "payment_gateway": "Alipay",
+        "card_brand": "VISA",
+        "bank": "Banco Estado",
+        "shipping_address": {
+            "region": "Antofagasta",
+            "address": "Calle Falsa 5343"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Videojuego",
+        "price": 1000.0,
+        "payment_gateway": "PagSeguro",
+        "card_brand": "Diners Club",
+        "bank": "Scotiabank",
+        "shipping_address": {
+            "region": "Magallanes",
+            "address": "Calle Falsa 6535"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Smartwatch",
+        "price": 450.0,
+        "payment_gateway": "Authorize.Net",
+        "card_brand": "AMEX",
+        "bank": "Banco Chile",
+        "shipping_address": {
+            "region": "Araucan\u00eda",
+            "address": "Calle Falsa 544"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Tablet",
+        "price": 400.0,
+        "payment_gateway": "Stripe",
+        "card_brand": "JCB",
+        "bank": "Banco Santander",
+        "shipping_address": {
+            "region": "Magallanes",
+            "address": "Calle Falsa 7222"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "SSD",
+        "price": 220.0,
+        "payment_gateway": "Square",
+        "card_brand": "Maestro",
+        "bank": "Banco Falabella",
+        "shipping_address": {
+            "region": "Araucan\u00eda",
+            "address": "Calle Falsa 9988"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Smartphone",
+        "price": 700.0,
+        "payment_gateway": "Kiphu",
+        "card_brand": "Discover",
+        "bank": "Banco Chile",
+        "shipping_address": {
+            "region": "Los Lagos",
+            "address": "Calle Falsa 6337"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Laptop",
+        "price": 200.0,
+        "payment_gateway": "Redsys",
+        "card_brand": "VISA",
+        "bank": "Banco Internacional",
+        "shipping_address": {
+            "region": "Valpara\u00edso",
+            "address": "Calle Falsa 2448"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Teclado",
+        "price": 220.0,
+        "payment_gateway": "Alipay",
+        "card_brand": "AMEX",
+        "bank": "Banco Santander",
+        "shipping_address": {
+            "region": "Maule",
+            "address": "Calle Falsa 5670"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Reloj inteligente",
+        "price": 130.0,
+        "payment_gateway": "EtPay",
+        "card_brand": "JCB",
+        "bank": "Banco de Cr\u00e9dito e Inversiones",
+        "shipping_address": {
+            "region": "Araucan\u00eda",
+            "address": "Calle Falsa 2289"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Mouse",
+        "price": 40.0,
+        "payment_gateway": "EtPay",
+        "card_brand": "Diners Club",
+        "bank": "Banco Falabella",
+        "shipping_address": {
+            "region": "Magallanes",
+            "address": "Calle Falsa 8900"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Drone",
+        "price": 250.0,
+        "payment_gateway": "PayPal",
+        "card_brand": "Mastercard",
+        "bank": "Banco Internacional",
+        "shipping_address": {
+            "region": "Araucan\u00eda",
+            "address": "Calle Falsa 5410"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Tablet",
+        "price": 100.0,
+        "payment_gateway": "PayPal",
+        "card_brand": "Mastercard",
+        "bank": "Banco Chile",
+        "shipping_address": {
+            "region": "Maule",
+            "address": "Calle Falsa 1715"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Smartphone",
+        "price": 1000.0,
+        "payment_gateway": "EtPay",
+        "card_brand": "AMEX",
+        "bank": "Scotiabank",
+        "shipping_address": {
+            "region": "Maule",
+            "address": "Calle Falsa 982"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Monitor",
+        "price": 1200.0,
+        "payment_gateway": "Webpay",
+        "card_brand": "JCB",
+        "bank": "Banco BICE",
+        "shipping_address": {
+            "region": "Valpara\u00edso",
+            "address": "Calle Falsa 7702"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Auriculares",
+        "price": 40.0,
+        "payment_gateway": "Webpay",
+        "card_brand": "Maestro",
+        "bank": "Banco Internacional",
+        "shipping_address": {
+            "region": "Magallanes",
+            "address": "Calle Falsa 3998"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Monitor",
+        "price": 450.0,
+        "payment_gateway": "Authorize.Net",
+        "card_brand": "Mastercard",
+        "bank": "Banco de Cr\u00e9dito e Inversiones",
+        "shipping_address": {
+            "region": "Antofagasta",
+            "address": "Calle Falsa 1040"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "SSD",
+        "price": 75.0,
+        "payment_gateway": "Square",
+        "card_brand": "UnionPay",
+        "bank": "Banco BICE",
+        "shipping_address": {
+            "region": "Magallanes",
+            "address": "Calle Falsa 7296"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Drone",
+        "price": 450.0,
+        "payment_gateway": "EtPay",
+        "card_brand": "VISA",
+        "bank": "Banco de Cr\u00e9dito e Inversiones",
+        "shipping_address": {
+            "region": "Metropolitana",
+            "address": "Calle Falsa 7911"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Router",
+        "price": 600.0,
+        "payment_gateway": "PagSeguro",
+        "card_brand": "AMEX",
+        "bank": "Banco Santander",
+        "shipping_address": {
+            "region": "Metropolitana",
+            "address": "Calle Falsa 5996"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Proyector",
+        "price": 300.0,
+        "payment_gateway": "PagSeguro",
+        "card_brand": "Diners Club",
+        "bank": "Banco Santander",
+        "shipping_address": {
+            "region": "Los R\u00edos",
+            "address": "Calle Falsa 6549"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    },
+    {
+        "product_name": "Smartwatch",
+        "price": 1500.0,
+        "payment_gateway": "Square",
+        "card_brand": "JCB",
+        "bank": "Banco de Cr\u00e9dito e Inversiones",
+        "shipping_address": {
+            "region": "Antofagasta",
+            "address": "Calle Falsa 8275"
+        },
+        "customer_email": "tareasd2@gmail.com"
+    }
+]
